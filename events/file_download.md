@@ -9,7 +9,7 @@ If a download is generated after some other user action is taken (e.g. - clickin
 window.dataLayer = window.dataLayer || []; // Initialize the dataLayer variable to avoid JS errors
 window.dataLayer.push({event_data: null}) // conditionally reset portions of DL 
 window.dataLayer.push({
-  "event": "click",
+  "event": "file_download",
   "event_data": {
     "category": "<category>",
     "component_ancestry": "<component_ancestry>",
