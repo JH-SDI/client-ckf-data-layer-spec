@@ -27,6 +27,7 @@ dataLayer.push({
   }]
 })
 
+```
 
 ## Variable Definitions
 
